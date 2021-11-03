@@ -1,0 +1,9 @@
+{
+	"name": "RepositoryADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49f7cd19-f022-472b-949e-b18929601bdb",
+		"tenantId": "e973a7a2-c30f-4778-9c52-edd6c93d2001"
+	}
+}
